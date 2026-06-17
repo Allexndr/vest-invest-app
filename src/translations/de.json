@@ -1,0 +1,47 @@
+{
+  "appName": "VEST",
+  "tagline": "Ihr Reichtum, vereinfacht",
+  "onboarding": {
+    "welcome": "Willkommen bei VEST",
+    "subtitle": "Investieren Sie wie ein Profi. Ohne Komplexität.",
+    "getStarted": "Loslegen",
+    "alreadyHaveAccount": "Bereits Konto?",
+    "signIn": "Anmelden"
+  },
+  "language": {
+    "title": "Sprache wählen",
+    "subtitle": "Wählen Sie Ihre bevorzugte Sprache",
+    "continue": "Weiter"
+  },
+  "country": {
+    "title": "Land auswählen",
+    "subtitle": "Wo befinden Sie sich?",
+    "search": "Länder suchen...",
+    "popular": "Beliebt"
+  },
+  "phone": {
+    "title": "Telefonnummer eingeben",
+    "subtitle": "Wir senden Ihnen einen Bestätigungscode",
+    "placeholder": "Telefonnummer",
+    "continue": "Weiter",
+    "invalidPhone": "Bitte gültige Nummer eingeben"
+  },
+  "otp": {
+    "title": "Telefon bestätigen",
+    "subtitle": "Code eingeben, der an {{phone}} gesendet wurde",
+    "resend": "Code erneut senden",
+    "resendIn": "Erneut senden in {{seconds}}s",
+    "verify": "Bestätigen"
+  },
+  "common": {
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "next": "Weiter",
+    "back": "Zurück",
+    "done": "Fertig",
+    "loading": "Laden...",
+    "error": "Etwas ist schief gelaufen",
+    "retry": "Wiederholen",
+    "ok": "OK"
+  }
+}

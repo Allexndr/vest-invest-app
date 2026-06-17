@@ -1,0 +1,120 @@
+{
+  "appName": "VEST",
+  "tagline": "Ваше богатство, упрощенное",
+  "onboarding": {
+    "welcome": "Добро пожаловать в VEST",
+    "subtitle": "Инвестируйте как профи. Без сложностей.",
+    "getStarted": "Начать",
+    "alreadyHaveAccount": "Уже есть аккаунт?",
+    "signIn": "Войти"
+  },
+  "language": {
+    "title": "Выберите язык",
+    "subtitle": "Выберите предпочитаемый язык",
+    "continue": "Продолжить"
+  },
+  "country": {
+    "title": "Выберите страну",
+    "subtitle": "Где вы находитесь?",
+    "search": "Поиск стран...",
+    "popular": "Популярные"
+  },
+  "phone": {
+    "title": "Введите номер телефона",
+    "subtitle": "Мы отправим вам код подтверждения",
+    "placeholder": "Номер телефона",
+    "continue": "Продолжить",
+    "invalidPhone": "Введите корректный номер телефона"
+  },
+  "otp": {
+    "title": "Подтвердите телефон",
+    "subtitle": "Введите код, отправленный на {{phone}}",
+    "resend": "Отправить код повторно",
+    "resendIn": "Отправить через {{seconds}}с",
+    "verify": "Подтвердить"
+  },
+  "dashboard": {
+    "goodMorning": "Доброе утро",
+    "goodAfternoon": "Добрый день",
+    "goodEvening": "Добрый вечер",
+    "portfolioValue": "Стоимость портфеля",
+    "totalReturn": "Общая доходность",
+    "invested": "Инвестировано",
+    "pnl": "Доход",
+    "dayChange": "Изменение за день",
+    "marketOverview": "Обзор рынка",
+    "dailyTasks": "Ежедневные задания",
+    "latestNews": "Последние новости",
+    "upgradePremium": "Попробуйте Premium бесплатно",
+    "trialEnding": "Триал заканчивается через {{days}} дней"
+  },
+  "portfolio": {
+    "title": "Портфель",
+    "totalValue": "Общая стоимость",
+    "allocation": "Распределение",
+    "positions": "Позиции",
+    "addPosition": "Добавить позицию"
+  },
+  "market": {
+    "title": "Рынок",
+    "search": "Поиск акций, криптовалют...",
+    "all": "Все",
+    "kazakhstan": "Казахстан",
+    "us": "Акции США",
+    "crypto": "Криптовалюта",
+    "forex": "Форекс"
+  },
+  "academy": {
+    "title": "Академия",
+    "subtitle": "Прокачайте навыки инвестирования",
+    "level": "Уровень",
+    "xp": "Опыт",
+    "learningTracks": "Треки обучения",
+    "badges": "Бейджи"
+  },
+  "profile": {
+    "title": "Профиль",
+    "editProfile": "Редактировать профиль",
+    "security": "Безопасность и биометрия",
+    "notifications": "Уведомления",
+    "subscription": "Подписка",
+    "taxReports": "Налоговые отчеты",
+    "help": "Помощь и поддержка",
+    "darkMode": "Темная тема",
+    "language": "Язык",
+    "signOut": "Выйти"
+  },
+  "subscription": {
+    "title": "Premium",
+    "subtitle": "Инвестируйте как профи",
+    "free": "Free",
+    "investor": "Investor",
+    "trader": "Trader",
+    "pro": "Pro",
+    "monthly": "Ежемесячно",
+    "yearly": "Ежегодно (экономия 40%)",
+    "trial": "7 дней бесплатно",
+    "features": {
+      "unlimitedPortfolio": "Безлимит позиций",
+      "advancedCharts": "15+ технических индикаторов",
+      "aiAnalytics": "AI-аналитика портфеля",
+      "taxReports": "Налоговые отчеты",
+      "apiAccess": "API доступ",
+      "prioritySupport": "Приоритетная поддержка"
+    },
+    "guarantee": "Гарантия возврата 7 дней",
+    "secure": "Безопасная оплата",
+    "cancelAnytime": "Отмена в любой момент"
+  },
+  "common": {
+    "cancel": "Отмена",
+    "save": "Сохранить",
+    "next": "Далее",
+    "back": "Назад",
+    "done": "Готово",
+    "loading": "Загрузка...",
+    "error": "Что-то пошло не так",
+    "retry": "Повторить",
+    "ok": "OK"
+  }
+}

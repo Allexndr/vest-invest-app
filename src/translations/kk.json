@@ -1,0 +1,120 @@
+{
+  "appName": "VEST",
+  "tagline": "Сіздің байлығыңыз, жеңілдетілген",
+  "onboarding": {
+    "welcome": "VEST-ке қош келдіңіз",
+    "subtitle": "Профессионалдай инвестиция жасаңыз. Қиындықсыз.",
+    "getStarted": "Бастау",
+    "alreadyHaveAccount": "Аккаунтыңыз бар ма?",
+    "signIn": "Кіру"
+  },
+  "language": {
+    "title": "Тілді таңдаңыз",
+    "subtitle": "Таңдаған тіліңізді таңдаңыз",
+    "continue": "Жалғастыру"
+  },
+  "country": {
+    "title": "Елді таңдаңыз",
+    "subtitle": "Сіз қайда орналасқансыз?",
+    "search": "Елдерді іздеу...",
+    "popular": "Танымал"
+  },
+  "phone": {
+    "title": "Телефон нөмірін енгізіңіз",
+    "subtitle": "Сізге растау кодын жібереміз",
+    "placeholder": "Телефон нөмірі",
+    "continue": "Жалғастыру",
+    "invalidPhone": "Жарамды телефон нөмірін енгізіңіз"
+  },
+  "otp": {
+    "title": "Телефонды растаңыз",
+    "subtitle": "{{phone}} нөміріне жіберілген кодты енгізіңіз",
+    "resend": "Кодты қайта жіберу",
+    "resendIn": "{{seconds}} секундтан кейін",
+    "verify": "Растау"
+  },
+  "dashboard": {
+    "goodMorning": "Қайырлы таң",
+    "goodAfternoon": "Қайырлы күн",
+    "goodEvening": "Қайырлы кеш",
+    "portfolioValue": "Портфель құны",
+    "totalReturn": "Жалпы табыс",
+    "invested": "Инвестицияланған",
+    "pnl": "Табыс",
+    "dayChange": "Күнгі өзгеріс",
+    "marketOverview": "Нарық шолуы",
+    "dailyTasks": "Күндік тапсырмалар",
+    "latestNews": "Соңғы жаңалықтар",
+    "upgradePremium": "Premium-ды тегін қолданып көріңіз",
+    "trialEnding": "Сынақ мерзімі {{days}} күннен кейін аяқталады"
+  },
+  "portfolio": {
+    "title": "Портфель",
+    "totalValue": "Жалпы құн",
+    "allocation": "Бөлу",
+    "positions": "Позициялар",
+    "addPosition": "Позиция қосу"
+  },
+  "market": {
+    "title": "Нарық",
+    "search": "Акцияларды, криптовалюталарды іздеу...",
+    "all": "Барлығы",
+    "kazakhstan": "Қазақстан",
+    "us": "АҚШ акциялары",
+    "crypto": "Криптовалюта",
+    "forex": "Форекс"
+  },
+  "academy": {
+    "title": "Академия",
+    "subtitle": "Инвестиция дағдыларыңызды арттырыңыз",
+    "level": "Деңгей",
+    "xp": "Тәжірибе",
+    "learningTracks": "Оқу тректері",
+    "badges": "Бейдждер"
+  },
+  "profile": {
+    "title": "Профиль",
+    "editProfile": "Профильді өңдеу",
+    "security": "Қауіпсіздік және биометрия",
+    "notifications": "Хабарламалар",
+    "subscription": "Жазылу",
+    "taxReports": "Салық есептілігі",
+    "help": "Көмек және қолдау",
+    "darkMode": "Қараңғы тақырып",
+    "language": "Тіл",
+    "signOut": "Шығу"
+  },
+  "subscription": {
+    "title": "Premium",
+    "subtitle": "Профессионалдай инвестиция жасаңыз",
+    "free": "Free",
+    "investor": "Investor",
+    "trader": "Trader",
+    "pro": "Pro",
+    "monthly": "Ай сайын",
+    "yearly": "Жыл сайын (40% үнемдеу)",
+    "trial": "7 күн тегін",
+    "features": {
+      "unlimitedPortfolio": "Шексіз позициялар",
+      "advancedCharts": "15+ техникалық индикаторлар",
+      "aiAnalytics": "AI портфель аналитикасы",
+      "taxReports": "Салық есептілігі",
+      "apiAccess": "API қолжетімділігі",
+      "prioritySupport": "Приоритетті қолдау"
+    },
+    "guarantee": "7 күн қайтару кепілдігі",
+    "secure": "Қауіпсіз төлем",
+    "cancelAnytime": "Кез келген уақытта бас тарту"
+  },
+  "common": {
+    "cancel": "Бас тарту",
+    "save": "Сақтау",
+    "next": "Келесі",
+    "back": "Артқа",
+    "done": "Дайын",
+    "loading": "Жүктелуде...",
+    "error": "Бірдеңе дұрыс болмады",
+    "retry": "Қайтадан",
+    "ok": "OK"
+  }
+}

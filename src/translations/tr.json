@@ -1,0 +1,47 @@
+{
+  "appName": "VEST",
+  "tagline": "Servetiniz, basitleştirildi",
+  "onboarding": {
+    "welcome": "VEST'e Hoş Geldiniz",
+    "subtitle": "Profesyonel gibi yatırım yapın. Karmaşa olmadan.",
+    "getStarted": "Başla",
+    "alreadyHaveAccount": "Zaten hesabınız var mı?",
+    "signIn": "Giriş Yap"
+  },
+  "language": {
+    "title": "Dil Seçin",
+    "subtitle": "Tercih ettiğiniz dili seçin",
+    "continue": "Devam Et"
+  },
+  "country": {
+    "title": "Ülke Seçin",
+    "subtitle": "Neredesiniz?",
+    "search": "Ülke ara...",
+    "popular": "Popüler"
+  },
+  "phone": {
+    "title": "Telefon Numarası Girin",
+    "subtitle": "Doğrulama kodu göndereceğiz",
+    "placeholder": "Telefon numarası",
+    "continue": "Devam Et",
+    "invalidPhone": "Geçerli bir numara girin"
+  },
+  "otp": {
+    "title": "Telefonu Doğrula",
+    "subtitle": "{{phone}} numarasına gönderilen kodu girin",
+    "resend": "Kodu tekrar gönder",
+    "resendIn": "{{seconds}} saniye sonra tekrar gönder",
+    "verify": "Doğrula"
+  },
+  "common": {
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "next": "İleri",
+    "back": "Geri",
+    "done": "Tamamlandı",
+    "loading": "Yükleniyor...",
+    "error": "Bir şeyler yanlış gitti",
+    "retry": "Tekrar Dene",
+    "ok": "Tamam"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "VEST",
+    "slug": "vest-app",
+    "description": "Your Wealth, Simplified. Invest like a pro.",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.vest.app",
+      "buildNumber": "1.0.0",
+      "infoPlist": {
+        "CFBundleDisplayName": "VEST",
+        "NSFaceIDUsageDescription": "Use Face ID to securely access your portfolio and confirm transactions."
+      }
+    },
+    "android": {
+      "package": "com.vest.app",
+      "versionCode": 1
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-local-authentication",
+      "expo-secure-store"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      }
+    }
+  }
+}

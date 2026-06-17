@@ -1,0 +1,76 @@
+{
+  "appName": "VEST",
+  "tagline": "Tu riqueza, simplificada",
+  "onboarding": {
+    "welcome": "Bienvenido a VEST",
+    "subtitle": "Invierte como un profesional. Sin complicaciones.",
+    "getStarted": "Empezar",
+    "alreadyHaveAccount": "¿Ya tienes cuenta?",
+    "signIn": "Iniciar sesión"
+  },
+  "language": {
+    "title": "Seleccionar idioma",
+    "subtitle": "Elige tu idioma preferido",
+    "continue": "Continuar"
+  },
+  "country": {
+    "title": "Seleccionar país",
+    "subtitle": "¿Dónde te encuentras?",
+    "search": "Buscar países...",
+    "popular": "Populares"
+  },
+  "phone": {
+    "title": "Ingresa tu teléfono",
+    "subtitle": "Te enviaremos un código de verificación",
+    "placeholder": "Número de teléfono",
+    "continue": "Continuar",
+    "invalidPhone": "Ingresa un número válido"
+  },
+  "otp": {
+    "title": "Verificar teléfono",
+    "subtitle": "Ingresa el código enviado a {{phone}}",
+    "resend": "Reenviar código",
+    "resendIn": "Reenviar en {{seconds}}s",
+    "verify": "Verificar"
+  },
+  "dashboard": {
+    "goodMorning": "Buenos días",
+    "goodAfternoon": "Buenas tardes",
+    "goodEvening": "Buenas noches",
+    "portfolioValue": "Valor del portafolio",
+    "totalReturn": "Retorno total",
+    "invested": "Invertido",
+    "pnl": "Ganancia",
+    "dayChange": "Cambio del día",
+    "marketOverview": "Resumen del mercado",
+    "dailyTasks": "Tareas diarias",
+    "latestNews": "Últimas noticias",
+    "upgradePremium": "Prueba Premium gratis",
+    "trialEnding": "Prueba termina en {{days}} días"
+  },
+  "subscription": {
+    "title": "Premium",
+    "subtitle": "Invierte como un profesional",
+    "free": "Free",
+    "investor": "Investor",
+    "trader": "Trader",
+    "pro": "Pro",
+    "monthly": "Mensual",
+    "yearly": "Anual (ahorra 40%)",
+    "trial": "7 días gratis",
+    "guarantee": "Garantía de devolución 7 días",
+    "secure": "Pago seguro",
+    "cancelAnytime": "Cancela cuando quieras"
+  },
+  "common": {
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "next": "Siguiente",
+    "back": "Atrás",
+    "done": "Hecho",
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "retry": "Reintentar",
+    "ok": "OK"
+  }
+}

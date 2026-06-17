@@ -1,0 +1,76 @@
+{
+  "appName": "VEST",
+  "tagline": "ثروتك، مبسطة",
+  "onboarding": {
+    "welcome": "مرحباً بك في VEST",
+    "subtitle": "استثمر كالمحترفين. بدون تعقيدات.",
+    "getStarted": "ابدأ",
+    "alreadyHaveAccount": "لديك حساب؟",
+    "signIn": "تسجيل الدخول"
+  },
+  "language": {
+    "title": "اختر اللغة",
+    "subtitle": "اختر لغتك المفضلة",
+    "continue": "متابعة"
+  },
+  "country": {
+    "title": "اختر الدولة",
+    "subtitle": "أين تقع؟",
+    "search": "البحث في الدول...",
+    "popular": "الشائعة"
+  },
+  "phone": {
+    "title": "أدخل رقم الهاتف",
+    "subtitle": "سنرسل لك رمز التحقق",
+    "placeholder": "رقم الهاتف",
+    "continue": "متابعة",
+    "invalidPhone": "أدخل رقم هاتف صالح"
+  },
+  "otp": {
+    "title": "تحقق من الهاتف",
+    "subtitle": "أدخل الرمز المرسل إلى {{phone}}",
+    "resend": "إعادة الإرسال",
+    "resendIn": "إعادة الإرسال بعد {{seconds}}ث",
+    "verify": "تحقق"
+  },
+  "dashboard": {
+    "goodMorning": "صباح الخير",
+    "goodAfternoon": "مساء الخير",
+    "goodEvening": "مساء الخير",
+    "portfolioValue": "قيمة المحفظة",
+    "totalReturn": "العائد الإجمالي",
+    "invested": "المستثمر",
+    "pnl": "الربح/الخسارة",
+    "dayChange": "تغير اليوم",
+    "marketOverview": "نظرة عامة على السوق",
+    "dailyTasks": "المهام اليومية",
+    "latestNews": "آخر الأخبار",
+    "upgradePremium": "جرب Premium مجاناً",
+    "trialEnding": "الفترة التجريبية تنتهي خلال {{days}} أيام"
+  },
+  "subscription": {
+    "title": "Premium",
+    "subtitle": "استثمر كالمحترفين",
+    "free": "مجاني",
+    "investor": "مستثمر",
+    "trader": "متداول",
+    "pro": "محترف",
+    "monthly": "شهري",
+    "yearly": "سنوي (وفر 40%)",
+    "trial": "7 أيام مجاناً",
+    "guarantee": "ضمان استرداد 7 أيام",
+    "secure": "دفع آمن",
+    "cancelAnytime": "إلغاء في أي وقت"
+  },
+  "common": {
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "next": "التالي",
+    "back": "رجوع",
+    "done": "تم",
+    "loading": "جار التحميل...",
+    "error": "حدث خطأ",
+    "retry": "إعادة المحاولة",
+    "ok": "موافق"
+  }
+}

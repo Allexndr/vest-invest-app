@@ -1,0 +1,15 @@
+@import 'nativewind/tailwind/css';
+
+@layer base {
+  :root {
+    --color-background: #1a1d1d;
+    --color-surface: #252828;
+    --color-text-primary: #f3f4f4;
+    --color-text-secondary: #b0b8b8;
+    --color-accent: #32b8c6;
+    --color-accent-muted: rgba(50,184,198,0.14);
+    --color-brand-orange: #e68161;
+    --color-success: #34d399;
+    --color-danger: #f87171;
+  }
+}
